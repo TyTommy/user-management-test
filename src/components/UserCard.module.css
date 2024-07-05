@@ -1,0 +1,20 @@
+.card {
+  max-width: 250px;
+  margin: 5rem auto;
+  border: 1px solid #ffffff22;
+  background: linear-gradient(0deg, rgba(40,44,52,1) 0%,        rgba(17,0,32,.5) 100%);
+}
+
+.cardMedia {
+  height: 220px;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 20px;
+  color: #1976D2;
+}
+
+.cardContent {
+  background-color: #F0EAD6;
+}
